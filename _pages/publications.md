@@ -5,6 +5,9 @@ permalink: /publications/
 author_profile: true
 sitemap: false
 ---
+[Fr\'echet Distance in Subquadratic Time](https://arxiv.org/abs/2407.05231)\\
+Siu-Wing Cheng, Haoqiang Huang\\
+SODA 2025
 
 [Cost Minimization for Equilibrium Transition](https://arxiv.org/abs/2312.07603)\\
 Haoqiang Huang, Zihe Wang, Zhide Wei, Jie Zhang\\
