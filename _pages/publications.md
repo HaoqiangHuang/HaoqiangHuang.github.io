@@ -5,6 +5,14 @@ permalink: /publications/
 author_profile: true
 sitemap: false
 ---
+[Simplification of Trajectory Streams]\\
+Siu-Wing Cheng, Haoqiang Huang, Le Jiang\\
+SoCG 2025
+
+[Constant Approximation of Fr\'echet Distance in Strongly Subquadratic Time]\\
+Siu-Wing Cheng, Haoqiang Huang, Shuo Zhang\\
+STOC 2025
+
 [Fr\'echet Distance in Subquadratic Time](https://arxiv.org/abs/2407.05231)\\
 Siu-Wing Cheng, Haoqiang Huang\\
 SODA 2025
